@@ -1,7 +1,6 @@
 package processor
 
 import java.io.{File, IOException}
-
 import com.github.tototoshi.csv.CSVReader
 import model.{Measurement, OutputData}
 
